@@ -1,0 +1,15 @@
+This project contains the code for programming assignment 3 for cop4531.
+The code is written in C++ and can be compiled with the makefile included.
+It is known to work on the computer science linprog server.
+
+Note: only Dijkstras algorithm is implemented. The shortest reliable paths algorithm is not.
+
+
+These are the dependencies required.
+#include<iostream>
+#include<fstream>
+#include<stdlib.h>
+#include<vector>
+#include<string>
+
+
